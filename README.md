@@ -1,6 +1,13 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/Caballerog/caballerog/master/wave.gif" width="30px">
 
-My name is Carlos Caballero and I'm a software developer engineer full-time Professor. I'm from Spain, living in Málaga and currently working at University and Vocational Education. You can find me on Twitter, or on LinkedIn.
+My name is Carlos Caballero and I'm a software developer engineer Professor. I'm from Spain, living in Málaga and currently working at University and Vocational Education. You can find me on Twitter, or on LinkedIn.
+
+
+## More About me
+I'm a computer science engineer and a PhD in Computer Science from the University of Málaga. I earned my masters in Software Engineering and Artificial Intelligence. Nowadays, I'm a full-time teacher in vocational training and University in Computer Science. I have written several teaching books and more than a dozen research articles in the first international journals such as the publications in Solar Physics (A Comparative Study of Clustering Methods for Active Region Detection in Solar EUV Images, Automatic tracking of active regions and detection of solar flares on solar EUV images). He is an open source passionate and loves contributing in events. 
+
+In addition, I am a Google Developer Expert in the Angular framework and I'm a passionate about opensource in all its colors and flavors.
+
 
 ## &#x270d; Blog & Writing
 
@@ -14,7 +21,7 @@ Apart from teaching, I also maintain a blog - you can find my articles on my web
 - [JavaScript ES2016 Features With Examples](https://www.carloscaballero.io/javascript-es2016-features-with-examples/)
 <!-- BLOG-POST-LIST:END -->
 
-<h3>Things I code with</h3>
+## 🔧 Things I code with
 <p>
   <img alt="angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
@@ -45,7 +52,8 @@ Apart from teaching, I also maintain a blog - you can find my articles on my web
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
  
 </p>
-<h3>Open source projects</h3>
+
+## :purple_heart: Open source projects
 
 <table>
   <thead align="center">
@@ -59,7 +67,7 @@ Apart from teaching, I also maintain a blog - you can find my articles on my web
   </thead>
   <tbody>
     <tr>
-	    <td><a href="https://github.com/voidcosmos/angular-communities"><b>Angular Communities</b></a></td>
+      <td><a href="https://github.com/voidcosmos/angular-communities"><b>Angular Communities</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/voidcosmos/angular-communities?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/voidcosmos/angular-communities?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/voidcosmos/angular-communities?style=flat-square&labelColor=343b41"/></td>
