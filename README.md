@@ -1,5 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/Caballerog/caballerog/master/wave.gif" width="30px">
 
+My name is Carlos Caballero and I'm a software developer engineer full-time Professor. I'm from Spain, living in Málaga and currently working at University and Vocational Education. You can find me on Twitter, or on LinkedIn.
 
 ## &#x270d; Blog & Writing
 
