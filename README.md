@@ -6,6 +6,9 @@ My name is Carlos Caballero and I'm a software developer engineer full-time Prof
 
 Apart from teaching, I also maintain a blog - you can find my articles on my website at [carloscaballero.io](https://carloscaballero.io/) as well as on [Medium](https://medium.com/@ccaballero) and [DEV.to](https://dev.to/carlillo).
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 ## &#x1f4c8; GitHub Stats
 
