@@ -4,9 +4,9 @@ My name is Carlos Caballero and I'm a software developer engineer Professor. I'm
 
 
 ## More About me
-I'm a computer science engineer and a PhD in Computer Science from the University of Málaga. I earned my masters in Software Engineering and Artificial Intelligence. Nowadays, I'm a full-time teacher in vocational training and University in Computer Science. I have written several teaching books and more than a dozen research articles in the first international journals such as the publications in Solar Physics (A Comparative Study of Clustering Methods for Active Region Detection in Solar EUV Images, Automatic tracking of active regions and detection of solar flares on solar EUV images). He is an open source passionate and loves contributing in events. 
+I'm a computer science engineer and a PhD in Computer Science from the University of Málaga. I earned my masters in Software Engineering and Artificial Intelligence. Nowadays, I'm a full-time teacher in vocational training and University in Computer Science. I have written several teaching books and more than a dozen research articles in the first international journals such as the publications in Solar Physics (A Comparative Study of Clustering Methods for Active Region Detection in Solar EUV Images, Automatic tracking of active regions and detection of solar flares on solar EUV images). 
 
-In addition, I am a Google Developer Expert in the Angular framework and I'm a passionate about opensource in all its colors and flavors.
+In addition, I am a Google Developer Expert in the Angular framework and I'm an open source passionate and loves contributing in events. 
 
 
 ## &#x270d; Blog & Writing
