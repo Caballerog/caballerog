@@ -14,11 +14,11 @@ In addition, I am a Google Developer Expert in the Angular framework and I'm an 
 Apart from teaching, I also maintain a blog - you can find my articles on my website at [carloscaballero.io](https://carloscaballero.io/) as well as on [Medium](https://medium.com/@ccaballero) and [DEV.to](https://dev.to/carlillo).
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Design Patterns: Builder](https://www.carloscaballero.io/understanding-design-patterns-builder/)
 - [Why You Should Learn JavaScript?](https://www.carloscaballero.io/why-you-should-learn-javascript/)
 - [Automatic Adaptive Images in Angular Applications](https://www.carloscaballero.io/automatic-adaptive-images-in-angular-applications/)
 - [Build&Deploy Angular Apps in GitHub Pages using GitHub Actions](https://www.carloscaballero.io/build-deploy-angular-apps-in-github-pages-using-github-actions/)
 - [Clean Code Applied to JavaScript - Part VII: Practical Refactoring Example: Ceaser Cipher](https://www.carloscaballero.io/clean-code-applied-to-javasscript-part-vii-practical-refactoring-example-ceaser-cipher/)
-- [JavaScript ES2016 Features With Examples](https://www.carloscaballero.io/javascript-es2016-features-with-examples/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔧 Things I code with
