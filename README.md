@@ -14,11 +14,11 @@ In addition, I am a Google Developer Expert in the Angular framework and I'm an 
 Apart from teaching, I also maintain a blog - you can find my articles on my website at [carloscaballero.io](https://carloscaballero.io/) as well as on [Medium](https://medium.com/@ccaballero) and [DEV.to](https://dev.to/carlillo).
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding the Observer Design Patterns](https://www.carloscaballero.io/understanding-the-observer-design-patterns/)
 - [Understanding the Abstract Factory Design Patterns](https://www.carloscaballero.io/understanding-the-abstract-factory-design-patterns/)
 - [ES2021 Features in simple examples](https://www.carloscaballero.io/es2021-features-in-simple-examples/)
 - [Understanding Design Patters: Factory Method](https://www.carloscaballero.io/understanding-design-patters-factory-method/)
 - [Understanding Design Patterns: Builder](https://www.carloscaballero.io/understanding-design-patterns-builder/)
-- [Why You Should Learn JavaScript?](https://www.carloscaballero.io/why-you-should-learn-javascript/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 🔧 Things I code with
